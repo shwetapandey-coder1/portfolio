@@ -1,0 +1,41 @@
+
+    NAME: SHWETA PANDEY
+    D/O: Mr.RK PANDEY
+    GENDER: FEMALE
+    D/O/B: 09/05/1995 
+    NATIONALITY: INDIAN
+    Email: ranjnapdy1234@gmail.com
+
+    EDUCATION QUALIFICATIONS:
+  
+                                 Year      |      Degree    |     Institution        | Univercity    |  CGPA/ Percentage
+
+                              2012-16              BE              VITS Satna            RGPV            7.54
+                                                  (CSE)            (M.P)               
+
+                               2011               12th            Govt. Girls Hr       M.P Board,         70%
+                                                                  Sec. School,Satna    Bhopal
+                                                                  (M.P)
+
+                               2009               11th           Govt. Girls Hr       M.P Board,          63%
+                                                                 Sec. School,Satna    Bhopal
+                                                                 (M.P)
+   
+      FINAL YEAR PROJECT: 
+                        1. Online Book Shop.
+                        2. Hospital Management System.
+
+      SKILLS: 
+            HTML, CSS, JAVASCRIPT, MS OFFICE.
+
+      STRENGTHS: 
+               1. Leadership quality.
+               2. Comfortable with new assignments.
+               3. Quick learner.
+               4. Creativity.
+               5. Punctual.
+               6. Positive thinking.
+
+      INTERNSHIP: 
+               1. Undergone 3 months industrial training in Core Java, Android & Project Development Technologies at UNIVERSAL INFORMATICS INDORE(M.P).
+               2. Undergone 1 month Training in PRISM SATNA(M.P).
